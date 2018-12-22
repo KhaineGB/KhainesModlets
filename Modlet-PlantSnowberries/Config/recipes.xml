@@ -1,0 +1,10 @@
+<configs>
+<append xpath="/recipes">
+	<!-- Adding snowberry recipe -->
+	
+	<recipe name="plantedSnowberry1" count="1" craft_time="1">
+		<ingredient name="resourceCropSnowberryPlant" count="4"/>
+	</recipe>
+
+</append>
+</configs>
