@@ -1,0 +1,9 @@
+<configs>
+	<!-- Adding Lockpick Recipe -->
+	<append xpath="/recipes">
+		<recipe name="toolLockpick" count="1" tags="learnable">
+			<ingredient name="resourceScrapIron" count="20"/>
+		</recipe>
+	</append>
+	
+</configs>

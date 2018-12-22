@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Lockpicking mod, by Khaine" />
+        <Description value="This modlet allows the player to use lockpicks to open non-player crafted doors and safes." />
+        <Author value="KhaineGB" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>

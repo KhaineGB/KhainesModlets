@@ -1,0 +1,39 @@
+<configs>
+	<!-- Adding Lockpicks to loot lists so they can be found in the world -->
+	<append xpath="/lootcontainers/lootcontainer[@id='6']"> <!-- Nightstands -->
+		<item name="toolLockpick" count="1" prob="0.75"/>
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='7']"> <!-- Medicine Cabinets -->
+		<item name="toolLockpick" count="1" prob="0.5"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='8']"> <!-- Kitchen Cabinets -->
+		<item name="toolLockpick" count="1" prob="0.25"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='9']"> <!-- Backpacks -->
+		<item name="toolLockpick" count="1" prob="0.75"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='36']"> <!-- Suitcase -->
+		<item name="toolLockpick" count="1" prob="0.25"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='43']"> <!-- Lockers -->
+		<item name="toolLockpick" count="1" prob="0.75"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='44']"> <!-- Filing Cabinet -->
+		<item name="toolLockpick" count="1" prob="0.25"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='48']"> <!-- Purse -->
+		<item name="toolLockpick" count="1" prob="0.75"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootcontainer[@id='55']"> <!-- Cash Register -->
+		<item name="toolLockpick" count="1" prob="0.5"/>
+	</append>
+	
+</configs>
